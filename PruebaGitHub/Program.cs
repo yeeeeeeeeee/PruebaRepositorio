@@ -10,6 +10,7 @@ namespace PruebaGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Holi");
         }
     }
 }
